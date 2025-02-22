@@ -118,4 +118,4 @@ To learn more about raw feeding, balanced recipes, and expert advice, check out 
 - Reddit’s **r/rawpetfood** forum  
 
 ### Veterinary Guidance:  
-- Consult with a **raw-feeding-friendly veterinarian** to ensure proper balance for your dog.  
+- Consult with a **raw-feeding-friendly veterinarian** of **dog nutritionist** to ensure proper balance for your dog.  
