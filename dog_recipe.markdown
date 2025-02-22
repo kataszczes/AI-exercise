@@ -72,7 +72,9 @@ A raw diet typically consists of:
 - 112 g chicken wings  
 - 45 g organ meats (e.g., beef liver and kidney)  
 - 45 g vegetables (e.g., zucchini, carrots)  
-- 5 ml fish oil (Omega-3 source)  
+- 5 ml fish oil (Omega-3 source) 
+
+Alternative meaty bones and amounts:
 
 | Meaty Bone Used | Bone % | Meaty Bone Amount (g) | Additional Muscle Meat (g) |
 | --------------- | ------ | --------------------- | -------------------------- |
