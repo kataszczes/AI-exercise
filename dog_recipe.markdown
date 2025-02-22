@@ -66,21 +66,20 @@ A raw diet typically consists of:
 **Daily Feeding Amount:** Approximately **450 g** (2.5% of body weight)  
 
 ### Ingredients:  
-- 315 g muscle meat (e.g., turkey thigh)  
-- 45 g raw meaty bones (e.g., chicken wings)  
+- 248 g muscle meat (e.g., turkey thigh)  
+- 112 g chicken wings  
 - 45 g organ meats (e.g., beef liver and kidney)  
 - 45 g vegetables (e.g., zucchini, carrots)  
 - 5 ml fish oil (Omega-3 source)  
 
 | Meaty Bone Used | Bone % | Meaty Bone Amount (g) | Additional Muscle Meat (g) |
 | --------------- | ------ | --------------------- | -------------------------- |
-| Chicken Wings   | 40%    | 112 g                 | 293 g                      |
-| Chicken Necks   | 50%    | 90 g                  | 315 g                      |
-| Duck Necks      | 50%    | 90 g                  | 315 g                      |
-| Duck Wings      | 45%    | 100 g                 | 305 g                      |
-| Chicken Frame   | 70%    | 65 g                  | 340 g                      |
-| Pork Ribs       | 30%    | 150 g                 | 255 g                      |
-
+| Chicken Wings   | 40%    | 112 g                 | 248 g                      |
+| Chicken Necks   | 50%    | 90 g                  | 270 g                      |
+| Duck Necks      | 50%    | 90 g                  | 270 g                      |
+| Duck Wings      | 45%    | 100 g                 | 260 g                      |
+| Chicken Frame   | 70%    | 65 g                  | 295 g                      |
+| Pork Ribs       | 30%    | 150 g                 | 210 g                      |
 
 ### Preparation:  
 1. Chop and mix all ingredients thoroughly.  
