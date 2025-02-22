@@ -64,9 +64,29 @@ A raw diet typically consists of:
 
 ### Feeding Guidelines:  
 - Monitor weight and adjust portions as needed.  
-- Ensure fresh water is always available.  
+- Ensure fresh water is always available.
 
-## 6. Conclusion  
+## 6. Useful Resources for Raw Feeding  
+
+To learn more about raw feeding, balanced recipes, and expert advice, check out the following resources:  
+
+### Books:  
+- *Raw and Natural Nutrition for Dogs* by Lew Olson  
+- *Unlocking the Canine Ancestral Diet* by Steve Brown  
+
+### Websites:  
+- [Raw Feeding Veterinary Society](https://rfvs.info)  
+- [Perfectly Rawsome](https://perfectlyrawsome.com)  
+- [Dogs Naturally Magazine](https://www.dogsnaturallymagazine.com)  
+
+### Online Communities:  
+- Facebook groups such as **"Raw Feeding for Dogs"**  
+- Reddit’s **r/rawpetfood** forum  
+
+### Veterinary Guidance:  
+- Consult with a **raw-feeding-friendly veterinarian** to ensure proper balance for your dog.  
+
+## 7. Conclusion  
 Switching to a raw diet can offer great health benefits when done correctly. Pay attention to your dog’s health and energy levels, and adjust portions as needed. Always consult a vet before making major diet changes to ensure your dog gets complete nutrition.
 
 ---
