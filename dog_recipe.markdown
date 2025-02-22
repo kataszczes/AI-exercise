@@ -92,7 +92,14 @@ Alternative meaty bones and amounts:
 - Monitor weight and adjust portions as needed.  
 - Ensure fresh water is always available.
 
-## 6. Useful Resources for Raw Feeding  
+## 6. Conclusion  
+Switching to a raw diet can offer great health benefits when done correctly. Pay attention to your dog’s health and energy levels, and adjust portions as needed. Always consult a vet before making major diet changes to ensure your dog gets complete nutrition.
+
+---
+
+This simple guide helps you get started with raw feeding in a safe and balanced way. Happy feeding!
+
+### Useful Resources for Raw Feeding  
 
 To learn more about raw feeding, balanced recipes, and expert advice, check out the following resources:  
 
@@ -112,10 +119,3 @@ To learn more about raw feeding, balanced recipes, and expert advice, check out 
 
 ### Veterinary Guidance:  
 - Consult with a **raw-feeding-friendly veterinarian** to ensure proper balance for your dog.  
-
-## 7. Conclusion  
-Switching to a raw diet can offer great health benefits when done correctly. Pay attention to your dog’s health and energy levels, and adjust portions as needed. Always consult a vet before making major diet changes to ensure your dog gets complete nutrition.
-
----
-
-This simple guide helps you get started with raw feeding in a safe and balanced way. Happy feeding!
