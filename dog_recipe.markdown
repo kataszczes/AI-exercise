@@ -2,8 +2,6 @@
 
 # The Best Raw Diet for Your Dog – A Simple Guide
 
----
-
 ## 1. Introduction  
 Many dog owners are turning to raw diets to provide a more natural and nutritious way to feed their pets. A raw diet can improve coat health, boost energy levels, and promote better digestion. However, proper balance is key to ensuring your dog gets all the essential nutrients.
 
