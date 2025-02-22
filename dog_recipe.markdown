@@ -23,10 +23,12 @@ A raw diet typically consists of:
 ## 3. Sample Raw Diet Recipe  
 **Ingredients:**  
 - 70% muscle meat (e.g., 450 g chicken thighs)  
-- 10% raw meaty bones (e.g., 65 g chicken necks)  
+- 10% raw meaty bones* (e.g., 65 g chicken necks)  
 - 10% organ meats (e.g., 65 g beef liver)  
 - 10% optional vegetables (e.g., chopped spinach, carrots)  
 - 5 ml fish oil (for Omega-3s)
+
+>*This percentage refers to bone content only - you have to calculate the bone to meat ration in a given type of meaty bone. Please refer to the table below.
 
 **Raw Meaty Bones (RMB) Composition**
 
