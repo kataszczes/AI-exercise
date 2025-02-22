@@ -1,3 +1,5 @@
+*This document was generated with AI assistance (Claude 3.5 Sonnet, February 2025) - as a human and machine interaction.*
+
 # Raw Dog Diet Guide
 
 ## Basic Principles

@@ -1,3 +1,5 @@
+*This document was generated with AI assistance (ChatGPT-4, February 2025) - as a human and machine interaction.*
+
 # The Best Raw Diet for Your Dog – A Simple Guide
 
 ---
@@ -24,7 +26,20 @@ A raw diet typically consists of:
 - 10% raw meaty bones (e.g., 65 g chicken necks)  
 - 10% organ meats (e.g., 65 g beef liver)  
 - 10% optional vegetables (e.g., chopped spinach, carrots)  
-- 5 ml fish oil (for Omega-3s)  
+- 5 ml fish oil (for Omega-3s)
+
+**Raw Meaty Bones (RMB) Composition**
+
+| Raw Meaty Bone | Bone % | Meat % |
+| -------------- | ------ | ------ |
+| Chicken Wings  | 40%    | 60%    |
+| Chicken Necks  | 50%    | 50%    |
+| Duck Necks     | 50%    | 50%    |
+| Duck Wings     | 45%    | 55%    |
+| Chicken Frame  | 70%    | 30%    |
+| Pork Ribs      | 30%    | 70%    |
+
+*Note: These percentages are approximate and may vary slightly based on the specific cut and source.*
 
 **Preparation:**  
 1. Chop meat, organs, and bones into appropriate sizes based on your dog’s breed and chewing habits.  
@@ -57,6 +72,16 @@ A raw diet typically consists of:
 - 45 g vegetables (e.g., zucchini, carrots)  
 - 5 ml fish oil (Omega-3 source)  
 
+| Meaty Bone Used | Bone % | Meaty Bone Amount (g) | Additional Muscle Meat (g) |
+| --------------- | ------ | --------------------- | -------------------------- |
+| Chicken Wings   | 40%    | 112 g                 | 293 g                      |
+| Chicken Necks   | 50%    | 90 g                  | 315 g                      |
+| Duck Necks      | 50%    | 90 g                  | 315 g                      |
+| Duck Wings      | 45%    | 100 g                 | 305 g                      |
+| Chicken Frame   | 70%    | 65 g                  | 340 g                      |
+| Pork Ribs       | 30%    | 150 g                 | 255 g                      |
+
+
 ### Preparation:  
 1. Chop and mix all ingredients thoroughly.  
 2. Divide into two equal meals (morning and evening).  
@@ -77,7 +102,8 @@ To learn more about raw feeding, balanced recipes, and expert advice, check out 
 ### Websites:  
 - [Raw Feeding Veterinary Society](https://rfvs.info)  
 - [Perfectly Rawsome](https://perfectlyrawsome.com)  
-- [Dogs Naturally Magazine](https://www.dogsnaturallymagazine.com)  
+- [Dogs Naturally Magazine](https://www.dogsnaturallymagazine.com)
+- [Paws of Prey](https://pawsofprey.com/)
 
 ### Online Communities:  
 - Facebook groups such as **"Raw Feeding for Dogs"**  
