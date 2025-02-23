@@ -1,5 +1,25 @@
 *This document was generated with AI assistance (ChatGPT-4, February 2025) - as a human and machine interaction.*
 
+- [The Best Raw Diet for Your Dog – A Simple Guide](#the-best-raw-diet-for-your-dog--a-simple-guide)
+  - [1. Introduction](#1-introduction)
+  - [2. Raw Diet - Basics](#2-raw-diet---basics)
+    - [Safe Food Handling - Tips](#safe-food-handling---tips)
+  - [3. Raw Diet Recipe - Example](#3-raw-diet-recipe---example)
+  - [4. Transitioning \& Common Mistakes](#4-transitioning--common-mistakes)
+    - [How to Transition Step-by-step:](#how-to-transition-step-by-step)
+    - [Common Mistakes:](#common-mistakes)
+  - [5. Personalised Recipe for Your Dog (18 kg, Spayed Bitch, Average Activity Level)](#5-personalised-recipe-for-your-dog-18-kg-spayed-bitch-average-activity-level)
+    - [Ingredients:](#ingredients)
+    - [Preparation:](#preparation)
+    - [Feeding Guidelines:](#feeding-guidelines)
+  - [6. Conclusion](#6-conclusion)
+    - [Useful Resources for Raw Feeding](#useful-resources-for-raw-feeding)
+    - [Books:](#books)
+    - [Websites:](#websites)
+    - [Online Communities:](#online-communities)
+    - [Veterinary Guidance:](#veterinary-guidance)
+
+
 # The Best Raw Diet for Your Dog – A Simple Guide
 
 ## 1. Introduction  
