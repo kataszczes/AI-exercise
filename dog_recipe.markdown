@@ -3,9 +3,10 @@
 # The Best Raw Diet for Your Dog – A Simple Guide
 
 ## 1. Introduction  
-Many dog owners are turning to raw diets to provide a more natural and nutritious way to feed their pets. A raw diet can improve coat health, boost energy levels, and promote better digestion. However, proper balance is key to ensuring your dog gets all the essential nutrients.
+Many dog owners are turning to raw diets, which can improve coat health, boost energy levels, and promote better digestion.In this article, you'll learn about proper balance to ensure your dog gets all essential ingredients. 
 
-## 2. Basics of a Raw Diet  
+
+## 2. Raw Diet - Basics
 A raw diet typically consists of:
 - **Muscle Meat:** The main protein source (e.g., chicken, beef, turkey, lamb, or fish).  
 - **Organ Meats:** Essential for vitamins and minerals (e.g., liver, kidney, heart).  
@@ -13,12 +14,12 @@ A raw diet typically consists of:
 - **Vegetables & Fruits (Optional):** Some owners add leafy greens, carrots, or blueberries for fiber and antioxidants.  
 - **Supplements:** Omega-3s, probiotics, or vitamin/mineral supplements if needed.  
 
-### Safe Food Handling Tips:  
-- Always source fresh, high-quality ingredients.  
-- Store raw food properly (freeze in portions and thaw as needed).  
-- Clean surfaces and bowls thoroughly after feeding.  
+### Safe Food Handling - Tips
+- Buy fresh, high-quality ingredients.  
+- Store raw food properly (freeze in portions and defrost as needed).
+- Clean surfaces and bowls after feeding. 
 
-## 3. Sample Raw Diet Recipe  
+## 3. Raw Diet Recipe - Example
 **Ingredients:**  
 - 70% muscle meat  
 - 10% raw meaty bones*  
@@ -52,17 +53,17 @@ A raw diet typically consists of:
 - Adjust portions based on activity level and weight changes.  
 
 ## 4. Transitioning & Common Mistakes  
-### How to Transition Gradually:  
+### How to Transition Step-by-step:
 - Start by mixing small amounts of raw food with the current diet.  
 - Gradually increase raw food while reducing kibble over 7-10 days.  
-- Monitor your dog’s digestion and energy levels during the switch.  
+- Monitor your dog’s digestion and energy levels during the transition.  
 
-### Common Mistakes to Avoid:  
-- **Unbalanced Meals:** Ensure variety and correct ratios of meat, organs, and bones.  
-- **Feeding Cooked Bones:** Only raw bones are safe—cooked bones can splinter.  
-- **Ignoring Hygiene:** Properly store, handle, and clean after raw feeding.  
+### Common Mistakes:  
+- **Unbalanced Meals:** Make sure meals have the right mix of meat, organs, and bones. 
+- **Cooked Bones:** Only give raw bones as cooked bones can break and cause harm.
+- **Hygiene Issues:** Store, handle, and clean up properly when feeding raw food.
 
-## 5. Specific Recipe for Your Dog (18 kg, Spayed Bitch, Average Activity Level)  
+## 5. Personalised Recipe for Your Dog (18 kg, Spayed Bitch, Average Activity Level)  
 **Daily Feeding Amount:** Approximately **450 g** (2.5% of body weight)  
 
 ### Ingredients:  
@@ -85,8 +86,8 @@ Alternative meaty bones and amounts:
 
 ### Preparation:  
 1. Chop and mix all ingredients thoroughly.  
-2. Divide into two equal meals (morning and evening).  
-3. Store portions appropriately and thaw before feeding.  
+2. Divide into two equal meals.  
+3. Store portions appropriately and defrost before feeding.  
 
 ### Feeding Guidelines:  
 - Monitor weight and adjust portions as needed.  
